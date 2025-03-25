@@ -1,5 +1,6 @@
 # ISOPOD-
-Ever wanted a sling bag that folds out to become a go kart? 
+Sling bag that folds out to become a go kart. 
+Second-year engineering project in accordance with Design for Manufacture and User Centred Product Design. 
 
 Lightweight and safe for airport travel according Uk and US guidelines. 
 
